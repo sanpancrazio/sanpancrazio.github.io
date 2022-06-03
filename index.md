@@ -11,7 +11,7 @@ San Pancrazio is an open space for collaborative agriculture in the province of 
 
 ## Contact Us
 
-[Send Us An Email](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Send Us An Email](mailto:bio.sanpancrazio@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ## Links
 
