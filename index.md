@@ -1,9 +1,15 @@
-<script type="text/javascript" src="path/to/instafeed.min.js"></script>
-
 # San Pancrazio
 Azienda Agricola Biologica - Work In Progress
 
 ![sanpa](sanpadallalto.jpeg)
+
+<div id="instafeed"></div>
+<script type="text/javascript">
+    var feed = new Instafeed({
+      accessToken: 'your-token'
+    });
+    feed.run();
+</script>
 
 ## About Us
   
