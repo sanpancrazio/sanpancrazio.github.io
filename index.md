@@ -3,14 +3,6 @@ Azienda Agricola Biologica - Work In Progress
 
 ![sanpa](sanpadallalto.jpeg)
 
-<div id="instafeed"></div>
-<script type="text/javascript">
-    var feed = new Instafeed({
-      accessToken: 'your-token'
-    });
-    feed.run();
-</script>
-
 ## About Us
   
 San Pancrazio is an open space for collaborative agriculture in the province of Messina (Librizzi)
